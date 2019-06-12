@@ -1,0 +1,3484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- 由 Microsoft Visio, SVG Export 生成 mo3.svg Page-1 -->
+
+<svg
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11.6929in"
+   height="8.26772in"
+   viewBox="0 0 841.89 595.276"
+   xml:space="preserve"
+   color-interpolation-filters="sRGB"
+   class="st21"
+   version="1.1"
+   id="svg739"
+   sodipodi:docname="mo3.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata745"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs743" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="738"
+   inkscape:window-height="480"
+   id="namedview741"
+   showgrid="false"
+   inkscape:zoom="0.29734114"
+   inkscape:cx="561.25919"
+   inkscape:cy="396.85057"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg739" />
+	<v:documentProperties
+   v:langID="2052"
+   v:metric="true"
+   v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud
+   v:nameU="msvNoAutoConnect"
+   v:val="VT0(1):26" />
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style
+   type="text/css"
+   id="style2">
+	<![CDATA[
+		.st1 {fill:#bfbfbf}
+		.st2 {stroke:#bfbfbf;stroke-linecap:butt;stroke-width:1.47402}
+		.st3 {fill:#bfbfbf;font-family:Times New Roman;font-size:1.00001em}
+		.st4 {baseline-shift:-32.4941%;font-size:0.649882em}
+		.st5 {fill:#000000}
+		.st6 {stroke:#000000;stroke-linecap:butt;stroke-width:1.47402}
+		.st7 {stroke:#bfbfbf;stroke-linecap:butt;stroke-width:1.15654}
+		.st8 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st9 {fill:#000000;font-family:Times New Roman;font-size:1.00001em}
+		.st10 {stroke:#000000;stroke-linecap:butt;stroke-width:1.15654}
+		.st11 {fill:none;stroke:none;stroke-linecap:butt;stroke-width:1.15654}
+		.st12 {stroke:#bfbfbf;stroke-linecap:butt;stroke-width:1.47}
+		.st13 {stroke:#000000;stroke-linecap:butt;stroke-width:1.5}
+		.st14 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st15 {stroke:#000000;stroke-linecap:butt;stroke-width:1.47}
+		.st16 {stroke:#bfbfbf;stroke-linecap:butt;stroke-width:1.5}
+		.st17 {fill:#bfbfbf;stroke:#bfbfbf;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st18 {fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:1.5}
+		.st19 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st20 {fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st21 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g
+   v:mID="0"
+   v:index="1"
+   v:groupContext="foregroundPage"
+   id="g737">
+		<v:userDefs>
+			<v:ud
+   v:nameU="TransistorCount"
+   v:prompt=""
+   v:val="VT0(3):26" />
+			<v:ud
+   v:nameU="DiodeCount"
+   v:prompt=""
+   v:val="VT0(3):26" />
+			<v:ud
+   v:nameU="AccumulatorCount"
+   v:prompt=""
+   v:val="VT0(5):26" />
+			<v:ud
+   v:nameU="InductorCount"
+   v:prompt=""
+   v:val="VT0(2):26" />
+			<v:ud
+   v:nameU="BatteryCount"
+   v:prompt=""
+   v:val="VT0(2):26" />
+		</v:userDefs>
+		<title
+   id="title4">页-1</title>
+		<v:pageProperties
+   v:drawingScale="0.0393701"
+   v:pageScale="0.0393701"
+   v:drawingUnits="24"
+   v:shadowOffsetX="8.50394"
+   v:shadowOffsetY="-8.50394" />
+		<v:layer
+   v:name="连接线"
+   v:index="0" />
+		<v:layer
+   v:name="电气"
+   v:index="1" />
+		<g
+   id="group1-1"
+   transform="translate(283.12,-321.31)"
+   v:mID="1"
+   v:groupContext="group"
+   v:layerMember="1">
+			<v:custProps>
+				<v:cp
+   v:nameU="Type"
+   v:lbl="类型"
+   v:type="1"
+   v:format="耗尽;增强"
+   v:sortKey="3"
+   v:langID="2052"
+   v:val="VT4(增强)" />
+				<v:cp
+   v:nameU="Gate"
+   v:lbl="门极数目"
+   v:type="1"
+   v:format="1;2"
+   v:sortKey="4"
+   v:langID="2052"
+   v:val="VT4(1)" />
+				<v:cp
+   v:nameU="Substrate"
+   v:lbl="基底连接"
+   v:type="1"
+   v:format="无;内部;外部"
+   v:sortKey="5"
+   v:langID="2052"
+   v:val="VT4(外部)" />
+				<v:cp
+   v:nameU="Envelope"
+   v:lbl="管壳"
+   v:type="1"
+   v:format="不可见;可见"
+   v:sortKey="1"
+   v:invis="true"
+   v:langID="2052"
+   v:val="VT4(可见)" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl="Label"
+   v:prompt=""
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="Substrate"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(内部)" />
+				<v:cp
+   v:nameU="Envelope"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(不可见)" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(Sa)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Type"
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="Gate"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Substrate"
+   v:val="VT0(2):26" />
+				<v:ud
+   v:nameU="Envelope"
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(P-channel metal-oxide semiconductor field-effect transistor.)" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SolSH"
+   v:prompt=""
+   v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})" />
+				<v:ud
+   v:nameU="Substrate"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="Envelope"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4(Q1)" />
+			</v:userDefs>
+			<title
+   id="title6">MOSFET N 型</title>
+			<desc
+   id="desc8">Sa</desc>
+			<g
+   id="shape2-2"
+   v:mID="2"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(4.36087,-4.42205)">
+				<title
+   id="title10">工作表.2</title>
+			</g>
+			<g
+   id="shape3-4"
+   v:mID="3"
+   v:groupContext="shape"
+   v:layerMember="1">
+				<title
+   id="title13">工作表.3</title>
+				<path
+   d="M18.8 576.85 L24.39 573.74 L24.39 579.75 L18.8 576.85 Z"
+   class="st1"
+   id="path15" />
+				<path
+   d="M26.1 585.09 L26.1 576.85 L22.23 576.85"
+   class="st2"
+   id="path17" />
+				<path
+   d="M14.09 567.91 L14.09 585.09 L0 585.09"
+   class="st2"
+   id="path19" />
+				<path
+   d="M26.1 558.43 L26.1 568.7 L17.64 568.7"
+   class="st2"
+   id="path21" />
+				<path
+   d="M26.1 595.28 L26.1 585.09 L17.68 585.09"
+   class="st2"
+   id="path23" />
+				<path
+   d="M22.91 576.85 L17.68 576.85"
+   class="st2"
+   id="path25" />
+				<path
+   d="M17.68 579.87 L17.68 573.85"
+   class="st2"
+   id="path27" />
+				<path
+   d="M17.68 582.08 L17.68 588.09"
+   class="st2"
+   id="path29" />
+				<path
+   d="M17.68 565.63 L17.68 571.64"
+   class="st2"
+   id="path31" />
+			</g>
+			<g
+   id="shape1-14"
+   v:mID="1"
+   v:groupContext="groupContent"
+   v:layerMember="1">
+				<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="34.0157" />
+				<v:textRect
+   cx="2.61241"
+   cy="575.861"
+   width="15.14"
+   height="16.4037" />
+				<text
+   x="-2.46"
+   y="579.46"
+   class="st3"
+   v:langID="2052"
+   id="text36"><v:paragraph
+   v:horizAlign="1" /><v:tabList />S<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan34">a</tspan></text>
+			</g>
+		</g>
+		<g
+   id="group4-17"
+   transform="translate(-246.614,273.966) rotate(-90)"
+   v:mID="4"
+   v:groupContext="group"
+   v:layerMember="1">
+			<v:custProps>
+				<v:cp
+   v:nameU="Type"
+   v:lbl="类型"
+   v:type="1"
+   v:format="常规;反向阻断;反向导通"
+   v:sortKey="2"
+   v:langID="2052"
+   v:val="VT4(常规)" />
+				<v:cp
+   v:nameU="Envelope"
+   v:lbl="管壳"
+   v:type="1"
+   v:format="不可见;可见"
+   v:sortKey="1"
+   v:langID="2052"
+   v:val="VT4(可见)" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl="Label"
+   v:prompt=""
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="Envelope"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(不可见)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Envelope"
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="Type"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(半导体二极管。)" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SolSH"
+   v:prompt=""
+   v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})" />
+				<v:ud
+   v:nameU="Envelope"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4(D1)" />
+			</v:userDefs>
+			<title
+   id="title40">二极管</title>
+			<g
+   id="shape5-18"
+   v:mID="5"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(4.13963,-4.42205)">
+				<title
+   id="title42">工作表.5</title>
+			</g>
+			<g
+   id="shape6-20"
+   v:mID="6"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(0.166793,-13.1969)">
+				<title
+   id="title45">工作表.6</title>
+				<path
+   d="M22.07 595.27 L22.07 584.44 L24.27 584.44 L24.27 595.27 L22.07 595.27 ZM22.09 590.09 L11.59 584.51 L11.59         595.28 L22.09 590.09 Z"
+   class="st5"
+   id="path47" />
+				<path
+   d="M36.68 590.05 L24.28 590.05"
+   class="st6"
+   id="path49" />
+				<path
+   d="M0 590.05 L11.59 590.05"
+   class="st6"
+   id="path51" />
+			</g>
+		</g>
+		<g
+   id="shape7-24"
+   v:mID="7"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(335.733,836.359) scale(1,-1)">
+			<title
+   id="title55">电容器</title>
+			<v:custProps>
+				<v:cp
+   v:nameU="Label"
+   v:lbl="Label"
+   v:prompt=""
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:cal="0"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Form"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Type"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(Represents a fixed or variable capacitor.)" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SolSH"
+   v:prompt=""
+   v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})" />
+				<v:ud
+   v:nameU="Form"
+   v:prompt=""
+   v:val="VT0(0):5" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4(C1)" />
+			</v:userDefs>
+			<path
+   d="M4.29 579.66 L4.29 577.35 L24.53 577.35 L24.53 579.66 L4.29 579.66 ZM4.29 584.29 L4.29 581.98 L24.53 581.98        L24.53 584.29 L4.29 584.29 Z"
+   class="st1"
+   id="path57" />
+			<path
+   d="M14.46 595.28 L14.46 584"
+   class="st7"
+   id="path59" />
+			<path
+   d="M14.46 577.64 L14.46 566.36"
+   class="st7"
+   id="path61" />
+		</g>
+		<g
+   id="shape11-28"
+   v:mID="11"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(454.616,-311.044)">
+			<title
+   id="title64">变压器</title>
+			<desc
+   id="desc66">T</desc>
+			<v:custProps>
+				<v:cp
+   v:nameU="SubType"
+   v:lbl="芯"
+   v:type="1"
+   v:format="空气芯;磁芯"
+   v:langID="2052"
+   v:val="VT4(空气芯)" />
+				<v:cp
+   v:nameU="SubType2"
+   v:lbl="可调整"
+   v:type="1"
+   v:format="无;一匝绕组;两匝绕组;互感器"
+   v:langID="2052"
+   v:val="VT4(无)" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl="标签"
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="SubType"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(磁芯)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="CoreType"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Adjustability"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="CH"
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(变压器。右键单击设置属性。)" />
+				<v:ud
+   v:nameU="CoreType"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="CH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="32.0621"
+   cy="603.477"
+   width="12.34"
+   height="16.4037" />
+			<path
+   d="M64.12 531.15 L48.09 531.15 A8.01551 8.01551 -180 0 0 40.08 539.17 A8.01551 8.01551 -180 0 0 48.09 547.18 A8.01551        8.01551 -180 0 0 40.08 555.2 A8.01551 8.01551 -180 0 0 48.09 563.21 A8.01551 8.01551 -180 0 0 40.08 571.23        A8.01551 8.01551 -180 0 0 48.09 579.24 A8.01551 8.01551 -180 0 0 40.08 587.26 A8.01551 8.01551 -180 0 0        48.09 595.28 L64.12 595.28"
+   class="st8"
+   id="path68" />
+			<path
+   d="M0 531.15 L16.03 531.15 A8.01551 8.01551 0 0 1 24.05 539.17 A8.01551 8.01551 0 0 1 16.03 547.18 A8.01551 8.01551        0 0 1 24.05 555.2 A8.01551 8.01551 0 0 1 16.03 563.21 A8.01551 8.01551 0 0 1 24.05 571.23 A8.01551 8.01551        0 0 1 16.03 579.24 A8.01551 8.01551 0 0 1 24.05 587.26 A8.01551 8.01551 0 0 1 16.03 595.28 L0 595.28"
+   class="st8"
+   id="path70" />
+			<path
+   d="M30.06 595.28 L30.06 531.15"
+   class="st8"
+   id="path72" />
+			<path
+   d="M34.07 595.28 L34.07 531.15"
+   class="st8"
+   id="path74" />
+			<text
+   x="28.4"
+   y="607.08"
+   class="st9"
+   v:langID="2052"
+   id="text76"><v:paragraph
+   v:horizAlign="1" /><v:tabList />T</text>
+		</g>
+		<g
+   id="group12-35"
+   transform="translate(524.409,-356.558)"
+   v:mID="12"
+   v:groupContext="group"
+   v:layerMember="1">
+			<v:custProps>
+				<v:cp
+   v:nameU="Type"
+   v:lbl="类型"
+   v:type="1"
+   v:format="常规;反向阻断;反向导通"
+   v:sortKey="2"
+   v:langID="2052"
+   v:val="VT4(常规)" />
+				<v:cp
+   v:nameU="Envelope"
+   v:lbl="管壳"
+   v:type="1"
+   v:format="不可见;可见"
+   v:sortKey="1"
+   v:langID="2052"
+   v:val="VT4(可见)" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl="Label"
+   v:prompt=""
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="Envelope"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(不可见)" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(DR)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Envelope"
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="Type"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(半导体二极管。)" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SolSH"
+   v:prompt=""
+   v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})" />
+				<v:ud
+   v:nameU="Envelope"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4(D2)" />
+			</v:userDefs>
+			<title
+   id="title79">二极管.12</title>
+			<desc
+   id="desc81">DR</desc>
+			<g
+   id="shape13-36"
+   v:mID="13"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(4.13963,-4.42205)">
+				<title
+   id="title83">工作表.13</title>
+			</g>
+			<g
+   id="shape14-38"
+   v:mID="14"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(0.166793,-13.1969)">
+				<title
+   id="title86">工作表.14</title>
+				<path
+   d="M22.07 595.27 L22.07 584.44 L24.27 584.44 L24.27 595.27 L22.07 595.27 ZM22.09 590.09 L11.59 584.51 L11.59         595.28 L22.09 590.09 Z"
+   class="st5"
+   id="path88" />
+				<path
+   d="M36.68 590.05 L24.28 590.05"
+   class="st6"
+   id="path90" />
+				<path
+   d="M0 590.05 L11.59 590.05"
+   class="st6"
+   id="path92" />
+			</g>
+			<g
+   id="shape12-42"
+   v:mID="12"
+   v:groupContext="groupContent"
+   v:layerMember="1">
+				<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="34.0157" />
+				<v:textRect
+   cx="18.4252"
+   cy="564.094"
+   width="18.88"
+   height="16.4037" />
+				<text
+   x="11.49"
+   y="567.69"
+   class="st9"
+   v:langID="2052"
+   id="text97"><v:paragraph
+   v:horizAlign="1" /><v:tabList />D<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan95">R</tspan></text>
+			</g>
+		</g>
+		<g
+   id="shape15-45"
+   v:mID="15"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(248.882,886.15) scale(1,-1)">
+			<title
+   id="title101">电容器.15</title>
+			<v:custProps>
+				<v:cp
+   v:nameU="Label"
+   v:lbl="Label"
+   v:prompt=""
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:cal="0"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Form"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Type"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(Represents a fixed or variable capacitor.)" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SolSH"
+   v:prompt=""
+   v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})" />
+				<v:ud
+   v:nameU="Form"
+   v:prompt=""
+   v:val="VT0(1):5" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4(C2)" />
+			</v:userDefs>
+			<path
+   d="M24.53 574.67 L24.53 577.29 C21.49 578.81 18.07 579.66 14.46 579.66 C10.8 579.66 7.35 578.79 4.29 577.24 L4.29        574.62 C7.28 576.35 10.75 577.35 14.46 577.35 C18.12 577.35 21.56 576.37 24.53 574.67 ZM4.29 584.29 L4.29        581.98 L24.53 581.98 L24.53 584.29 L4.29 584.29 Z"
+   class="st1"
+   id="path103" />
+			<path
+   d="M14.46 595.28 L14.46 584"
+   class="st7"
+   id="path105" />
+			<path
+   d="M14.46 577.64 L14.46 566.36"
+   class="st7"
+   id="path107" />
+		</g>
+		<g
+   id="shape16-49"
+   v:mID="16"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(566.646,830.875) scale(1,-1)">
+			<title
+   id="title110">电容器.16</title>
+			<v:custProps>
+				<v:cp
+   v:nameU="Label"
+   v:lbl="Label"
+   v:prompt=""
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:cal="0"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Form"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Type"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(Represents a fixed or variable capacitor.)" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SolSH"
+   v:prompt=""
+   v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})" />
+				<v:ud
+   v:nameU="Form"
+   v:prompt=""
+   v:val="VT0(1):5" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4(C3)" />
+			</v:userDefs>
+			<path
+   d="M24.53 574.67 L24.53 577.29 C21.49 578.81 18.07 579.66 14.46 579.66 C10.8 579.66 7.35 578.79 4.29 577.24 L4.29        574.62 C7.28 576.35 10.75 577.35 14.46 577.35 C18.12 577.35 21.56 576.37 24.53 574.67 ZM4.29 584.29 L4.29        581.98 L24.53 581.98 L24.53 584.29 L4.29 584.29 Z"
+   class="st5"
+   id="path112" />
+			<path
+   d="M14.46 595.28 L14.46 584"
+   class="st10"
+   id="path114" />
+			<path
+   d="M14.46 577.64 L14.46 566.36"
+   class="st10"
+   id="path116" />
+		</g>
+		<g
+   id="shape17-53"
+   v:mID="17"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(354.947,-304.724)">
+			<title
+   id="title119">电容器.17</title>
+			<desc
+   id="desc121">Cds_sa</desc>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="34.0157"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="14.4567"
+   cy="580.819"
+   width="28.92"
+   height="28.9134" />
+			<rect
+   x="0"
+   y="566.362"
+   width="28.9134"
+   height="28.9134"
+   class="st11"
+   id="rect123" />
+			<text
+   x="1.79"
+   y="578.16"
+   class="st3"
+   v:langID="2052"
+   id="text127"><v:paragraph
+   v:horizAlign="1" /><v:tabList />C<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan125">ds_sa</tspan></text>
+		</g>
+		<g
+   id="shape18-57"
+   v:mID="18"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(350.19,-352.54)">
+			<title
+   id="title130">动态连接线</title>
+			<path
+   d="M0 593.62 L0 582.75 L-18.54 582.75"
+   class="st12"
+   id="path132" />
+		</g>
+		<g
+   id="group31-60"
+   transform="translate(385.228,-213.409)"
+   v:mID="31"
+   v:groupContext="group"
+   v:layerMember="1">
+			<v:custProps>
+				<v:cp
+   v:nameU="Type"
+   v:lbl="类型"
+   v:type="1"
+   v:format="耗尽;增强"
+   v:sortKey="3"
+   v:langID="2052"
+   v:val="VT4(增强)" />
+				<v:cp
+   v:nameU="Gate"
+   v:lbl="门极数目"
+   v:type="1"
+   v:format="1;2"
+   v:sortKey="4"
+   v:langID="2052"
+   v:val="VT4(1)" />
+				<v:cp
+   v:nameU="Substrate"
+   v:lbl="基底连接"
+   v:type="1"
+   v:format="无;内部;外部"
+   v:sortKey="5"
+   v:langID="2052"
+   v:val="VT4(外部)" />
+				<v:cp
+   v:nameU="Envelope"
+   v:lbl="管壳"
+   v:type="1"
+   v:format="不可见;可见"
+   v:sortKey="1"
+   v:invis="true"
+   v:langID="2052"
+   v:val="VT4(可见)" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl="Label"
+   v:prompt=""
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="Substrate"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(内部)" />
+				<v:cp
+   v:nameU="Envelope"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(不可见)" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(Sw)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Type"
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="Gate"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Substrate"
+   v:val="VT0(2):26" />
+				<v:ud
+   v:nameU="Envelope"
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(P-channel metal-oxide semiconductor field-effect transistor.)" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SolSH"
+   v:prompt=""
+   v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})" />
+				<v:ud
+   v:nameU="Substrate"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="Envelope"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4(Q2)" />
+			</v:userDefs>
+			<title
+   id="title135">MOSFET N 型.31</title>
+			<desc
+   id="desc137">Sw</desc>
+			<g
+   id="shape32-61"
+   v:mID="32"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(4.36087,-4.42205)">
+				<title
+   id="title139">工作表.32</title>
+			</g>
+			<g
+   id="shape33-63"
+   v:mID="33"
+   v:groupContext="shape"
+   v:layerMember="1">
+				<title
+   id="title142">工作表.33</title>
+				<path
+   d="M18.8 576.85 L24.39 573.74 L24.39 579.75 L18.8 576.85 Z"
+   class="st1"
+   id="path144" />
+				<path
+   d="M26.1 585.09 L26.1 576.85 L22.23 576.85"
+   class="st2"
+   id="path146" />
+				<path
+   d="M14.09 567.91 L14.09 585.09 L0 585.09"
+   class="st2"
+   id="path148" />
+				<path
+   d="M26.1 558.43 L26.1 568.7 L17.64 568.7"
+   class="st2"
+   id="path150" />
+				<path
+   d="M26.1 595.28 L26.1 585.09 L17.68 585.09"
+   class="st2"
+   id="path152" />
+				<path
+   d="M22.91 576.85 L17.68 576.85"
+   class="st2"
+   id="path154" />
+				<path
+   d="M17.68 579.87 L17.68 573.85"
+   class="st2"
+   id="path156" />
+				<path
+   d="M17.68 582.08 L17.68 588.09"
+   class="st2"
+   id="path158" />
+				<path
+   d="M17.68 565.63 L17.68 571.64"
+   class="st2"
+   id="path160" />
+			</g>
+			<g
+   id="shape31-73"
+   v:mID="31"
+   v:groupContext="groupContent"
+   v:layerMember="1">
+				<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="34.0157" />
+				<v:textRect
+   cx="1.98425"
+   cy="570.614"
+   width="17.31"
+   height="16.4037" />
+				<text
+   x="-4.17"
+   y="574.21"
+   class="st3"
+   v:langID="2052"
+   id="text165"><v:paragraph
+   v:horizAlign="1" /><v:tabList />S<tspan
+   dy="-0.279em"
+   class="st4"
+   v:langID="1033"
+   v:baseFontSize="12"
+   id="tspan163">w</tspan></text>
+			</g>
+		</g>
+		<g
+   id="group34-76"
+   transform="translate(-147.402,381.867) rotate(-90)"
+   v:mID="34"
+   v:groupContext="group"
+   v:layerMember="1">
+			<v:custProps>
+				<v:cp
+   v:nameU="Type"
+   v:lbl="类型"
+   v:type="1"
+   v:format="常规;反向阻断;反向导通"
+   v:sortKey="2"
+   v:langID="2052"
+   v:val="VT4(常规)" />
+				<v:cp
+   v:nameU="Envelope"
+   v:lbl="管壳"
+   v:type="1"
+   v:format="不可见;可见"
+   v:sortKey="1"
+   v:langID="2052"
+   v:val="VT4(可见)" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl="Label"
+   v:prompt=""
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="Envelope"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(不可见)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Envelope"
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="Type"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(半导体二极管。)" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SolSH"
+   v:prompt=""
+   v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})" />
+				<v:ud
+   v:nameU="Envelope"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4(D1)" />
+			</v:userDefs>
+			<title
+   id="title169">二极管.34</title>
+			<g
+   id="shape35-77"
+   v:mID="35"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(4.13963,-4.42205)">
+				<title
+   id="title171">工作表.35</title>
+			</g>
+			<g
+   id="shape36-79"
+   v:mID="36"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(0.166793,-13.1969)">
+				<title
+   id="title174">工作表.36</title>
+				<path
+   d="M22.07 595.27 L22.07 584.44 L24.27 584.44 L24.27 595.27 L22.07 595.27 ZM22.09 590.09 L11.59 584.51 L11.59         595.28 L22.09 590.09 Z"
+   class="st1"
+   id="path176" />
+				<path
+   d="M36.68 590.05 L24.28 590.05"
+   class="st2"
+   id="path178" />
+				<path
+   d="M0 590.05 L11.59 590.05"
+   class="st2"
+   id="path180" />
+			</g>
+		</g>
+		<g
+   id="shape37-83"
+   v:mID="37"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(433.134,944.261) scale(1,-1)">
+			<title
+   id="title184">电容器.37</title>
+			<desc
+   id="desc186">Cds_sw</desc>
+			<v:custProps>
+				<v:cp
+   v:nameU="Label"
+   v:lbl="Label"
+   v:prompt=""
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(Cds_sw)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Form"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Type"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(Represents a fixed or variable capacitor.)" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SolSH"
+   v:prompt=""
+   v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4(C1)" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="34.0157"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="31.1811"
+   cy="570.047"
+   width="32.51"
+   height="16.4037" />
+			<path
+   d="M4.29 579.66 L4.29 577.35 L24.53 577.35 L24.53 579.66 L4.29 579.66 ZM4.29 584.29 L4.29 581.98 L24.53 581.98        L24.53 584.29 L4.29 584.29 Z"
+   class="st1"
+   id="path188" />
+			<path
+   d="M14.46 595.28 L14.46 584"
+   class="st7"
+   id="path190" />
+			<path
+   d="M14.46 577.64 L14.46 566.36"
+   class="st7"
+   id="path192" />
+			<text
+   x="17.43"
+   y="-566.45"
+   transform="scale(1,-1)"
+   class="st3"
+   v:langID="2052"
+   id="text196"><v:paragraph
+   v:horizAlign="1" /><v:tabList />C<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan194">ds_sw</tspan></text>
+		</g>
+		<g
+   id="shape61-89"
+   v:mID="61"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(323.15,-353.816)">
+			<title
+   id="title199">动态连接线.61</title>
+			<path
+   d="M7.09 590.93 L7.09 585.45"
+   class="st13"
+   id="path201" />
+		</g>
+		<g
+   id="shape62-92"
+   v:mID="62"
+   v:groupContext="shape"
+   transform="translate(328.819,-363.645)">
+			<title
+   id="title204">自动联接</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st14"
+   id="path206" />
+		</g>
+		<g
+   id="shape63-94"
+   v:mID="63"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(328.819,-358.004)">
+			<title
+   id="title209">动态连接线.63</title>
+			<path
+   d="M0 588.22 L-18.18 588.16"
+   class="st15"
+   id="path211" />
+		</g>
+		<g
+   id="shape64-97"
+   v:mID="64"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(302.134,-325.085)">
+			<title
+   id="title214">动态连接线.64</title>
+			<path
+   d="M7.09 599.05 L7.09 605.67"
+   class="st16"
+   id="path216" />
+		</g>
+		<g
+   id="shape65-100"
+   v:mID="65"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(323.15,-325.085)">
+			<title
+   id="title219">动态连接线.65</title>
+			<path
+   d="M7.09 599.05 L7.09 605.67"
+   class="st13"
+   id="path221" />
+		</g>
+		<g
+   id="shape66-103"
+   v:mID="66"
+   v:groupContext="shape"
+   transform="translate(328.819,-311.852)">
+			<title
+   id="title224">自动联接.66</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st14"
+   id="path226" />
+		</g>
+		<g
+   id="shape67-105"
+   v:mID="67"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(331.654,-312.187)">
+			<title
+   id="title229">动态连接线.67</title>
+			<path
+   d="M0 594.19 L18.54 594.19 L18.54 582.18"
+   class="st16"
+   id="path231" />
+		</g>
+		<g
+   id="shape68-108"
+   v:mID="68"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(404.243,-215.566)">
+			<title
+   id="title234">动态连接线.68</title>
+			<path
+   d="M7.09 597.37 L7.09 607.35"
+   class="st16"
+   id="path236" />
+		</g>
+		<g
+   id="shape69-111"
+   v:mID="69"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(436.535,-225.162)">
+			<title
+   id="title239">动态连接线.69</title>
+			<path
+   d="M-7.09 595.28 L-7.09 616.95"
+   class="st16"
+   id="path241" />
+		</g>
+		<g
+   id="shape70-114"
+   v:mID="70"
+   v:groupContext="shape"
+   transform="translate(428.031,-200.653)">
+			<title
+   id="title244">自动联接.70</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st17"
+   id="path246" />
+		</g>
+		<g
+   id="shape71-116"
+   v:mID="71"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(430.866,-202.07)">
+			<title
+   id="title249">动态连接线.71</title>
+			<path
+   d="M0 595.28 L16.72 595.28 L16.72 579.97"
+   class="st16"
+   id="path251" />
+		</g>
+		<g
+   id="shape72-119"
+   v:mID="72"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(447.591,-243.314)">
+			<title
+   id="title254">动态连接线.72</title>
+			<path
+   d="M0 592.3 L0 584.08 L-16.7 584.08"
+   class="st16"
+   id="path256" />
+		</g>
+		<g
+   id="shape73-122"
+   v:mID="73"
+   v:groupContext="shape"
+   transform="translate(409.912,-253.094)">
+			<title
+   id="title259">自动联接.73</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st17"
+   id="path261" />
+		</g>
+		<g
+   id="shape74-124"
+   v:mID="74"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(404.243,-258.763)">
+			<title
+   id="title264">动态连接线.74</title>
+			<path
+   d="M7.09 600.94 L7.09 603.78"
+   class="st16"
+   id="path266" />
+		</g>
+		<g
+   id="shape75-127"
+   v:mID="75"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(422.375,-244.59)">
+			<title
+   id="title269">动态连接线.75</title>
+			<path
+   d="M7.07 589.61 L7.1 586.77"
+   class="st16"
+   id="path271" />
+		</g>
+		<g
+   id="shape76-130"
+   v:mID="76"
+   v:groupContext="shape"
+   transform="translate(428.057,-253.094)">
+			<title
+   id="title274">自动联接.76</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st17"
+   id="path276" />
+		</g>
+		<g
+   id="shape77-132"
+   v:mID="77"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(428.057,-247.425)">
+			<title
+   id="title279">动态连接线.77</title>
+			<path
+   d="M0 588.19 L-15.31 588.19"
+   class="st16"
+   id="path281" />
+		</g>
+		<g
+   id="group78-135"
+   transform="translate(355.686,-394.826)"
+   v:mID="78"
+   v:groupContext="group"
+   v:layerMember="1">
+			<v:custProps>
+				<v:cp
+   v:nameU="Core"
+   v:lbl="芯"
+   v:type="1"
+   v:format="空气;磁;有磁隙的磁"
+   v:langID="2052"
+   v:val="VT4(空气)" />
+				<v:cp
+   v:nameU="Adjustability"
+   v:lbl="可调整性"
+   v:type="1"
+   v:format="固定的;可调整的;可连续调整的"
+   v:langID="2052"
+   v:val="VT4(固定的)" />
+				<v:cp
+   v:nameU="Taps"
+   v:lbl="抽头"
+   v:type="1"
+   v:format="0;1;2;3"
+   v:langID="2052"
+   v:val="VT4(0)" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl="标签"
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:val="VT0(0):26" />
+				<v:cp
+   v:nameU="Value"
+   v:lbl="价值"
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Core"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Adjustability"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="CH" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(电感器。右键单击设置电感器属性。)" />
+			</v:userDefs>
+			<title
+   id="title284">电感器.12</title>
+			<desc
+   id="desc286">Lk</desc>
+			<g
+   id="shape79-136"
+   v:mID="79"
+   v:groupContext="shape"
+   v:layerMember="1">
+				<title
+   id="title288">工作表.79</title>
+				<path
+   d="M0 595.28 A3.54614 4.08856 0 1 1 7.09 595.28 A3.54614 4.08856 0 1 1 14.17 595.28 A3.54614 4.08856 0 1 1         21.26 595.28 A3.54614 4.08856 0 1 1 28.35 595.28"
+   class="st8"
+   id="path290" />
+				<path
+   d="M0 595.28 L0 598.11"
+   class="st8"
+   id="path292" />
+				<path
+   d="M28.35 595.28 L28.35 598.11"
+   class="st8"
+   id="path294" />
+			</g>
+			<g
+   id="shape80-141"
+   v:mID="80"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(13.6639,4.78346)">
+				<title
+   id="title297">工作表.80</title>
+			</g>
+			<g
+   id="shape81-143"
+   v:mID="81"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(-416.177,182.79) rotate(-45)">
+				<title
+   id="title300">工作表.81</title>
+			</g>
+			<g
+   id="shape78-145"
+   v:mID="78"
+   v:groupContext="groupContent"
+   v:layerMember="1">
+				<v:textBlock
+   v:margins="rect(0,0,0,0)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="12.8175"
+   cy="583.897"
+   width="14.24"
+   height="14.4037" />
+				<text
+   x="7.2"
+   y="587.5"
+   class="st9"
+   v:langID="2052"
+   id="text305"><v:paragraph
+   v:horizAlign="1" /><v:tabList />L<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan303">k</tspan></text>
+			</g>
+		</g>
+		<g
+   id="shape82-148"
+   v:mID="82"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(454.616,-375.168)">
+			<title
+   id="title309">动态连接线.82</title>
+			<path
+   d="M0 595.28 L0 578.64 L-40.76 578.64"
+   class="st13"
+   id="path311" />
+		</g>
+		<g
+   id="group83-151"
+   transform="translate(1014.8,220.107) rotate(90)"
+   v:mID="83"
+   v:groupContext="group"
+   v:layerMember="1">
+			<v:custProps>
+				<v:cp
+   v:nameU="Core"
+   v:lbl="芯"
+   v:type="1"
+   v:format="空气;磁;有磁隙的磁"
+   v:langID="2052"
+   v:val="VT4(空气)" />
+				<v:cp
+   v:nameU="Adjustability"
+   v:lbl="可调整性"
+   v:type="1"
+   v:format="固定的;可调整的;可连续调整的"
+   v:langID="2052"
+   v:val="VT4(固定的)" />
+				<v:cp
+   v:nameU="Taps"
+   v:lbl="抽头"
+   v:type="1"
+   v:format="0;1;2;3"
+   v:langID="2052"
+   v:val="VT4(0)" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl="标签"
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:val="VT0(0):26" />
+				<v:cp
+   v:nameU="Value"
+   v:lbl="价值"
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1033"
+   v:cal="0"
+   v:val="VT4(Lm)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Core"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Adjustability"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="CH" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(电感器。右键单击设置电感器属性。)" />
+			</v:userDefs>
+			<title
+   id="title314">电感器.83</title>
+			<desc
+   id="desc316">Lm</desc>
+			<g
+   id="shape84-152"
+   v:mID="84"
+   v:groupContext="shape"
+   v:layerMember="1">
+				<title
+   id="title318">工作表.84</title>
+				<path
+   d="M0 595.28 A8.02194 9.24897 0 1 1 16.03 595.28 A8.02194 9.24897 0 1 1 32.06 595.28 A8.02194 9.24897 0 1 1         48.09 595.28 A8.02194 9.24897 0 1 1 64.12 595.28"
+   class="st8"
+   id="path320" />
+				<path
+   d="M0 595.28 L0 600.94"
+   class="st8"
+   id="path322" />
+				<path
+   d="M64.12 595.28 L64.12 600.94"
+   class="st8"
+   id="path324" />
+			</g>
+			<g
+   id="shape85-157"
+   v:mID="85"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(30.9099,10.821)">
+				<title
+   id="title327">工作表.85</title>
+			</g>
+			<g
+   id="shape86-159"
+   v:mID="86"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(-410.187,193.44) rotate(-45)">
+				<title
+   id="title330">工作表.86</title>
+			</g>
+			<g
+   id="shape83-161"
+   v:mID="83"
+   v:groupContext="groupContent"
+   v:layerMember="1">
+				<v:textBlock
+   v:margins="rect(0,0,0,0)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="29.9484"
+   cy="608.031"
+   width="16.4"
+   height="14.4037"
+   transform="rotate(-90)" />
+				<text
+   x="-614.73"
+   y="33.55"
+   transform="rotate(-90)"
+   class="st9"
+   v:langID="2052"
+   id="text335"><v:paragraph
+   v:horizAlign="1" /><v:tabList />L<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan333">m</tspan></text>
+			</g>
+		</g>
+		<g
+   id="shape87-164"
+   v:mID="87"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(420.236,-375.168)">
+			<title
+   id="title339">动态连接线.87</title>
+			<path
+   d="M-6.38 595.28 L-7.8 595.28 L-7.8 580.05"
+   class="st13"
+   id="path341" />
+		</g>
+		<g
+   id="shape88-167"
+   v:mID="88"
+   v:groupContext="shape"
+   transform="translate(411.024,-390.389)">
+			<title
+   id="title344">自动联接.88</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st14"
+   id="path346" />
+		</g>
+		<g
+   id="shape89-169"
+   v:mID="89"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(411.024,-384.812)">
+			<title
+   id="title349">动态连接线.89</title>
+			<path
+   d="M0 588.28 L-26.99 588.28 L-26.99 588.1"
+   class="st13"
+   id="path351" />
+		</g>
+		<g
+   id="shape95-172"
+   v:mID="95"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(418.472,-288.527)">
+			<title
+   id="title354">动态连接线.95</title>
+			<path
+   d="M-7.03 595.28 L-7.14 627.87"
+   class="st16"
+   id="path356" />
+		</g>
+		<g
+   id="shape109-175"
+   v:mID="109"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(412.858,-289.944)">
+			<title
+   id="title359">动态连接线.109</title>
+			<path
+   d="M0 595.28 L41.76 595.28 L41.76 574.18"
+   class="st13"
+   id="path361" />
+		</g>
+		<g
+   id="shape112-178"
+   v:mID="112"
+   v:groupContext="shape"
+   transform="translate(410.023,-288.527)">
+			<title
+   id="title364">自动联接.112</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st14"
+   id="path366" />
+		</g>
+		<g
+   id="shape116-180"
+   v:mID="116"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(419.736,-311.044)">
+			<title
+   id="title369">动态连接线.116</title>
+			<path
+   d="M-5.88 595.28 L-8.3 595.28 L-8.3 614.96"
+   class="st13"
+   id="path371" />
+		</g>
+		<g
+   id="shape117-183"
+   v:mID="117"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(355.686,-384.905)">
+			<title
+   id="title374">动态连接线.117</title>
+			<path
+   d="M0 588.19 L-45.05 588.19"
+   class="st13"
+   id="path376" />
+		</g>
+		<g
+   id="shape118-186"
+   v:mID="118"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(302.134,-366.536)">
+			<title
+   id="title379">动态连接线.118</title>
+			<path
+   d="M7.09 595.28 L7.09 571.24"
+   class="st13"
+   id="path381" />
+		</g>
+		<g
+   id="shape119-189"
+   v:mID="119"
+   v:groupContext="shape"
+   transform="translate(307.804,-363.701)">
+			<title
+   id="title384">自动联接.119</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st14"
+   id="path386" />
+		</g>
+		<g
+   id="shape120-191"
+   v:mID="120"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(302.134,-368.017)">
+			<title
+   id="title389">动态连接线.120</title>
+			<path
+   d="M7.09 599.59 L7.09 605.13"
+   class="st12"
+   id="path391" />
+		</g>
+		<g
+   id="shape122-194"
+   v:mID="122"
+   v:groupContext="shape"
+   transform="translate(307.804,-390.574)">
+			<title
+   id="title394">自动联接.122</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st14"
+   id="path396" />
+		</g>
+		<g
+   id="shape126-196"
+   v:mID="126"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(921.26,319.788) rotate(90) scale(-1,1)">
+			<title
+   id="title399">电容器.126</title>
+			<desc
+   id="desc401">CC</desc>
+			<v:custProps>
+				<v:cp
+   v:nameU="Label"
+   v:lbl="Label"
+   v:prompt=""
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(CC)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Form"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="Type"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(Represents a fixed or variable capacitor.)" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SolSH"
+   v:prompt=""
+   v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4(C4)" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="34.0157"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="22.7172"
+   cy="593.008"
+   width="18.21"
+   height="16.4037"
+   transform="rotate(-90)" />
+			<path
+   d="M4.29 579.66 L4.29 577.35 L24.53 577.35 L24.53 579.66 L4.29 579.66 ZM4.29 584.29 L4.29 581.98 L24.53 581.98        L24.53 584.29 L4.29 584.29 Z"
+   class="st5"
+   id="path403" />
+			<path
+   d="M14.46 595.28 L14.46 584"
+   class="st10"
+   id="path405" />
+			<path
+   d="M14.46 577.64 L14.46 566.36"
+   class="st10"
+   id="path407" />
+			<text
+   x="-599.61"
+   y="-19.12"
+   transform="rotate(90) scale(-1,1)"
+   class="st9"
+   v:langID="2052"
+   id="text411"><v:paragraph
+   v:horizAlign="1" /><v:tabList />C<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan409">C</tspan></text>
+		</g>
+		<g
+   id="shape127-202"
+   v:mID="127"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(354.898,-282.858)">
+			<title
+   id="title414">动态连接线.127</title>
+			<path
+   d="M0 588.19 L55.13 588.19"
+   class="st13"
+   id="path416" />
+		</g>
+		<g
+   id="shape128-205"
+   v:mID="128"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(325.984,-289.944)">
+			<title
+   id="title419">动态连接线.128</title>
+			<path
+   d="M0 595.28 L-16.76 595.28 L-16.76 573.37"
+   class="st13"
+   id="path421" />
+		</g>
+		<g
+   id="shape129-208"
+   v:mID="129"
+   v:groupContext="shape"
+   transform="translate(307.804,-311.852)">
+			<title
+   id="title424">自动联接.129</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st14"
+   id="path426" />
+		</g>
+		<g
+   id="shape130-210"
+   v:mID="130"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(310.638,-306.183)">
+			<title
+   id="title429">动态连接线.130</title>
+			<path
+   d="M0 588.19 L18.18 588.19"
+   class="st13"
+   id="path431" />
+		</g>
+		<g
+   id="shape131-213"
+   v:mID="131"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(307.804,-384.905)">
+			<title
+   id="title434">动态连接线.131</title>
+			<path
+   d="M0 588.19 L-43.01 588.19"
+   class="st16"
+   id="path436" />
+		</g>
+		<g
+   id="shape132-216"
+   v:mID="132"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(270.382,-275.488)">
+			<title
+   id="title439">动态连接线.132</title>
+			<path
+   d="M-7.04 595.28 L-7.04 613.28 L-7.13 613.28 L-7.13 667.28"
+   class="st16"
+   id="path441" />
+		</g>
+		<g
+   id="shape133-219"
+   v:mID="133"
+   v:groupContext="shape"
+   transform="translate(409.912,-200.653)">
+			<title
+   id="title444">自动联接.133</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st17"
+   id="path446" />
+		</g>
+		<g
+   id="shape134-221"
+   v:mID="134"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(412.747,-194.984)">
+			<title
+   id="title449">动态连接线.134</title>
+			<path
+   d="M0 588.19 L15.28 588.19"
+   class="st16"
+   id="path451" />
+		</g>
+		<g
+   id="shape135-224"
+   v:mID="135"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(793.701,286.906) rotate(90)">
+			<title
+   id="title454">电池</title>
+			<desc
+   id="desc456">Vin</desc>
+			<v:custProps>
+				<v:cp
+   v:nameU="Label"
+   v:lbl="Label"
+   v:prompt=""
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="Label"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(Vin)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Symbols"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(Represents a battery.)" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SolSH"
+   v:prompt=""
+   v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})" />
+				<v:ud
+   v:nameU="Symbols"
+   v:prompt=""
+   v:val="VT0(1):5" />
+				<v:ud
+   v:nameU="Label"
+   v:prompt=""
+   v:val="VT4(BT1)" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="34.0157"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="18.4252"
+   cy="605.143"
+   width="19.74"
+   height="16.4037"
+   transform="rotate(-90)" />
+			<path
+   d="M19.9 589.75 L19.9 563.95 L22.85 563.95 L22.85 589.75 L19.9 589.75 L15.48 595.28 L15.48 558.43 L16.95 558.43        L16.95 595.28 L15.48 595.28 L19.9 589.75 Z"
+   class="st1"
+   id="path458" />
+			<path
+   d="M36.85 576.85 L22.48 576.85"
+   class="st2"
+   id="path460" />
+			<path
+   d="M15.85 576.85 L0 576.85"
+   class="st2"
+   id="path462" />
+			<text
+   x="-612.51"
+   y="22.02"
+   transform="rotate(-90)"
+   class="st3"
+   v:langID="2052"
+   id="text466"><v:paragraph
+   v:horizAlign="1" /><v:tabList />V<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan464">in</tspan></text>
+		</g>
+		<g
+   id="shape136-230"
+   v:mID="136"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(216.85,-308.369)">
+			<title
+   id="title469">动态连接线.136</title>
+			<path
+   d="M0 595.28 L0 511.65 L45.11 511.65"
+   class="st16"
+   id="path471" />
+		</g>
+		<g
+   id="shape137-233"
+   v:mID="137"
+   v:groupContext="shape"
+   transform="translate(261.958,-390.574)">
+			<title
+   id="title474">自动联接.137</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st17"
+   id="path476" />
+		</g>
+		<g
+   id="shape138-235"
+   v:mID="138"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(270.425,-390.575)">
+			<title
+   id="title479">动态连接线.138</title>
+			<path
+   d="M-7.09 595.28 L-7.09 681.45"
+   class="st16"
+   id="path481" />
+		</g>
+		<g
+   id="shape148-238"
+   v:mID="148"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(216.85,-271.519)">
+			<title
+   id="title484">动态连接线.148</title>
+			<path
+   d="M0 595.28 L0 664.72 L44.98 664.72"
+   class="st16"
+   id="path486" />
+		</g>
+		<g
+   id="shape149-241"
+   v:mID="149"
+   v:groupContext="shape"
+   transform="translate(261.835,-200.653)">
+			<title
+   id="title489">自动联接.149</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st17"
+   id="path491" />
+		</g>
+		<g
+   id="shape150-243"
+   v:mID="150"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(264.67,-194.984)">
+			<title
+   id="title494">动态连接线.150</title>
+			<path
+   d="M0 588.19 L145.24 588.19"
+   class="st16"
+   id="path496" />
+		</g>
+		<g
+   id="shape151-246"
+   v:mID="151"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(518.74,-382.161)">
+			<title
+   id="title499">动态连接线.151</title>
+			<path
+   d="M0 602.27 L17.01 602.46"
+   class="st13"
+   id="path501" />
+		</g>
+		<g
+   id="shape152-249"
+   v:mID="152"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(561.26,-367.897)">
+			<title
+   id="title504">动态连接线.152</title>
+			<path
+   d="M0 588.19 L18.43 588.19"
+   class="st13"
+   id="path506" />
+		</g>
+		<g
+   id="shape153-252"
+   v:mID="153"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(518.74,-318.127)">
+			<title
+   id="title509">动态连接线.153</title>
+			<path
+   d="M0 602.36 L60.94 602.37"
+   class="st13"
+   id="path511" />
+		</g>
+		<g
+   id="shape154-255"
+   v:mID="154"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(603.78,-356.515)">
+			<title
+   id="title514">端子</title>
+			<v:custProps>
+				<v:cp
+   v:nameU="Label"
+   v:lbl="标签"
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="CH"
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(端接设备。用控制手柄来移动文本。)" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="SolSH"
+   v:prompt=""
+   v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})" />
+			</v:userDefs>
+			<ellipse
+   cx="18.5173"
+   cy="576.85"
+   rx="4.45153"
+   ry="4.45521"
+   class="st18"
+   id="ellipse516" />
+		</g>
+		<g
+   id="shape155-257"
+   v:mID="155"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(603.78,-292.649)">
+			<title
+   id="title519">端子.155</title>
+			<v:custProps>
+				<v:cp
+   v:nameU="Label"
+   v:lbl="标签"
+   v:type="0"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="2052"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="CH"
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="visDescription"
+   v:val="VT4(端接设备。用控制手柄来移动文本。)" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="SolSH"
+   v:prompt=""
+   v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})" />
+			</v:userDefs>
+			<ellipse
+   cx="18.5173"
+   cy="576.85"
+   rx="4.45153"
+   ry="4.45521"
+   class="st18"
+   id="ellipse521" />
+		</g>
+		<g
+   id="shape160-259"
+   v:mID="160"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(617.661,-318.142)">
+			<title
+   id="title524">动态连接线.160</title>
+			<path
+   d="M0 602.34 L-35.14 602.38"
+   class="st13"
+   id="path526" />
+		</g>
+		<g
+   id="shape161-262"
+   v:mID="161"
+   v:groupContext="shape"
+   transform="translate(579.685,-309.62)">
+			<title
+   id="title529">自动联接.161</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st14"
+   id="path531" />
+		</g>
+		<g
+   id="shape162-264"
+   v:mID="162"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(574.016,-312.455)">
+			<title
+   id="title534">动态连接线.162</title>
+			<path
+   d="M7.09 595.28 L7.09 586.12 L7.09 586.12 L7.09 576.97"
+   class="st13"
+   id="path536" />
+		</g>
+		<g
+   id="shape163-267"
+   v:mID="163"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(617.661,-367.875)">
+			<title
+   id="title539">动态连接线.163</title>
+			<path
+   d="M0 588.21 L-35.14 588.17"
+   class="st13"
+   id="path541" />
+		</g>
+		<g
+   id="shape164-270"
+   v:mID="164"
+   v:groupContext="shape"
+   transform="translate(579.685,-373.566)">
+			<title
+   id="title544">自动联接.164</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="visDisableIncLayout"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visIsJunction"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<path
+   d="M0 593.86 A1.41732 1.41732 0 0 1 2.83 593.86 A1.41732 1.41732 0 1 1 0 593.86 Z"
+   class="st14"
+   id="path546" />
+		</g>
+		<g
+   id="shape165-272"
+   v:mID="165"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(574.016,-373.708)">
+			<title
+   id="title549">动态连接线.165</title>
+			<path
+   d="M7.09 595.42 L7.09 609.31"
+   class="st13"
+   id="path551" />
+		</g>
+		<g
+   id="shape169-275"
+   v:mID="169"
+   v:groupContext="shape"
+   transform="translate(354.947,-310.23)">
+			<title
+   id="title554">减号</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<rect
+   x="0.664289"
+   y="591.29"
+   width="5.31431"
+   height="1.32858"
+   class="st17"
+   id="rect556" />
+		</g>
+		<g
+   id="shape170-277"
+   v:mID="170"
+   v:groupContext="shape"
+   transform="translate(354.947,-359.837)">
+			<title
+   id="title559">加号</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<path
+   d="M3.99 591.29 L3.99 589.3 L2.66 589.3 L2.66 591.29 L0.66 591.29 L0.66 592.62 L2.66 592.62 L2.66 594.61 L3.99        594.61 L3.99 592.62 L5.98 592.62 L5.98 591.29 L3.99 591.29 Z"
+   class="st17"
+   id="path561" />
+		</g>
+		<g
+   id="shape171-279"
+   v:mID="171"
+   v:groupContext="shape"
+   transform="translate(361.417,-337.153)">
+			<title
+   id="title564">工作表.171</title>
+			<desc
+   id="desc566">Vds_sa</desc>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="14.1732"
+   cy="589.323"
+   width="28.35"
+   height="11.9055" />
+			<rect
+   x="0"
+   y="583.37"
+   width="28.3465"
+   height="11.9055"
+   class="st19"
+   id="rect568" />
+			<text
+   x="1.18"
+   y="595.17"
+   class="st3"
+   v:langID="2052"
+   id="text572"><v:paragraph
+   v:horizAlign="1" /><v:tabList />V<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan570">ds_sa</tspan></text>
+		</g>
+		<g
+   id="shape172-283"
+   v:mID="172"
+   v:groupContext="shape"
+   transform="translate(618.883,-315.928)">
+			<title
+   id="title575">减号.172</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<rect
+   x="0.664289"
+   y="591.29"
+   width="5.31431"
+   height="1.32858"
+   class="st14"
+   id="rect577" />
+		</g>
+		<g
+   id="shape173-285"
+   v:mID="173"
+   v:groupContext="shape"
+   transform="translate(618.883,-361.984)">
+			<title
+   id="title580">加号.173</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<path
+   d="M3.99 591.29 L3.99 589.3 L2.66 589.3 L2.66 591.29 L0.66 591.29 L0.66 592.62 L2.66 592.62 L2.66 594.61 L3.99        594.61 L3.99 592.62 L5.98 592.62 L5.98 591.29 L3.99 591.29 Z"
+   class="st14"
+   id="path582" />
+		</g>
+		<g
+   id="shape174-287"
+   v:mID="174"
+   v:groupContext="shape"
+   transform="translate(612.283,-322.441)">
+			<title
+   id="title585">工作表.174</title>
+			<desc
+   id="desc587">Vo</desc>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="14.1732"
+   cy="581.604"
+   width="28.35"
+   height="27.3423" />
+			<rect
+   x="0"
+   y="567.933"
+   width="28.3465"
+   height="27.3423"
+   class="st19"
+   id="rect589" />
+			<text
+   x="7.89"
+   y="579.73"
+   class="st9"
+   v:langID="2052"
+   id="text593"><v:paragraph
+   v:horizAlign="1" /><v:tabList />V<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan591">o</tspan></text>
+		</g>
+		<g
+   id="shape176-291"
+   v:mID="176"
+   v:groupContext="shape"
+   transform="translate(455.404,-200.166)">
+			<title
+   id="title596">减号.176</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<rect
+   x="0.664289"
+   y="591.29"
+   width="5.31431"
+   height="1.32858"
+   class="st17"
+   id="rect598" />
+		</g>
+		<g
+   id="shape177-293"
+   v:mID="177"
+   v:groupContext="shape"
+   transform="translate(455.404,-249.772)">
+			<title
+   id="title601">加号.177</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<path
+   d="M3.99 591.29 L3.99 589.3 L2.66 589.3 L2.66 591.29 L0.66 591.29 L0.66 592.62 L2.66 592.62 L2.66 594.61 L3.99        594.61 L3.99 592.62 L5.98 592.62 L5.98 591.29 L3.99 591.29 Z"
+   class="st17"
+   id="path603" />
+		</g>
+		<g
+   id="shape178-295"
+   v:mID="178"
+   v:groupContext="shape"
+   transform="translate(464.882,-225.881)">
+			<title
+   id="title606">工作表.178</title>
+			<desc
+   id="desc608">Vds_sw</desc>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="18.4252"
+   cy="589.323"
+   width="36.86"
+   height="11.9055" />
+			<rect
+   x="0"
+   y="583.37"
+   width="36.8504"
+   height="11.9055"
+   class="st20"
+   id="rect610" />
+			<text
+   x="4.34"
+   y="595.17"
+   class="st3"
+   v:langID="2052"
+   id="text614"><v:paragraph
+   v:horizAlign="1" /><v:tabList />V<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan612">ds_sw</tspan></text>
+		</g>
+		<g
+   id="shape179-299"
+   v:mID="179"
+   v:groupContext="shape"
+   transform="translate(464.693,-363.713)">
+			<title
+   id="title617">圆形</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<path
+   d="M0 592.02 A3.25983 3.25983 0 0 1 6.52 592.02 A3.25983 3.25983 0 1 1 0 592.02 Z"
+   class="st14"
+   id="path619" />
+		</g>
+		<g
+   id="shape181-301"
+   v:mID="181"
+   v:groupContext="shape"
+   transform="translate(502.236,-315.928)">
+			<title
+   id="title622">圆形.181</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<path
+   d="M0 592.02 A3.25983 3.25983 0 0 1 6.52 592.02 A3.25983 3.25983 0 1 1 0 592.02 Z"
+   class="st14"
+   id="path624" />
+		</g>
+		<g
+   id="shape182-303"
+   v:mID="182"
+   v:groupContext="shape"
+   transform="translate(346.819,-274.968)">
+			<title
+   id="title627">加号.182</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<path
+   d="M3.99 591.29 L3.99 589.3 L2.66 589.3 L2.66 591.29 L0.66 591.29 L0.66 592.62 L2.66 592.62 L2.66 594.61 L3.99        594.61 L3.99 592.62 L5.98 592.62 L5.98 591.29 L3.99 591.29 Z"
+   class="st14"
+   id="path629" />
+		</g>
+		<g
+   id="shape183-305"
+   v:mID="183"
+   v:groupContext="shape"
+   transform="translate(325.984,-274.968)">
+			<title
+   id="title632">减号.183</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<rect
+   x="0.664289"
+   y="591.29"
+   width="5.31431"
+   height="1.32858"
+   class="st14"
+   id="rect634" />
+		</g>
+		<g
+   id="shape184-307"
+   v:mID="184"
+   v:groupContext="shape"
+   transform="translate(327.21,-262.772)">
+			<title
+   id="title637">工作表.184</title>
+			<desc
+   id="desc639">VC</desc>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="14.1732"
+   cy="589.323"
+   width="28.35"
+   height="11.9055" />
+			<rect
+   x="0"
+   y="583.37"
+   width="28.3465"
+   height="11.9055"
+   class="st19"
+   id="rect641" />
+			<text
+   x="7.24"
+   y="595.17"
+   class="st9"
+   v:langID="2052"
+   id="text645"><v:paragraph
+   v:horizAlign="1" /><v:tabList />V<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan643">C</tspan></text>
+		</g>
+		<g
+   id="shape186-311"
+   v:mID="186"
+   v:groupContext="shape"
+   transform="translate(571.301,827.615) rotate(180)">
+			<title
+   id="title648">普通箭头.186</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="ArrowType"
+   v:prompt=""
+   v:val="VT0(2):26" />
+			</v:userDefs>
+			<path
+   d="M0 595.28 L6.78 593.69 L6.78 594.48 L54.63 594.48 L54.63 595.28 L54.63 596.07 L6.78 596.07 L6.78 596.86 L0 595.28        Z"
+   class="st14"
+   id="path650" />
+		</g>
+		<g
+   id="shape188-313"
+   v:mID="188"
+   v:groupContext="shape"
+   transform="translate(524.409,-350.322)">
+			<title
+   id="title653">工作表.188</title>
+			<desc
+   id="desc655">Is</desc>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="14.1732"
+   cy="589.323"
+   width="28.35"
+   height="11.9055" />
+			<rect
+   x="0"
+   y="583.37"
+   width="28.3465"
+   height="11.9055"
+   class="st19"
+   id="rect657" />
+			<text
+   x="10.66"
+   y="595.17"
+   class="st9"
+   v:langID="2052"
+   id="text661"><v:paragraph
+   v:horizAlign="1" /><v:tabList />I<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan659">s</tspan></text>
+		</g>
+		<g
+   id="shape191-317"
+   v:mID="191"
+   v:groupContext="shape"
+   transform="translate(-183.912,328.285) rotate(-89.8049)">
+			<title
+   id="title664">现代箭头</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="CtrlAngle"
+   v:prompt=""
+   v:val="VT0(0.78539816339745):32" />
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="CtrlAngle"
+   v:prompt=""
+   v:val="VT0(0.5216439715843):32" />
+			</v:userDefs>
+			<path
+   d="M0 595.28 L6.54 591.52 L6.93 592.19 L2.25 594.88 L16.65 594.88 L16.65 595.67 L2.25 595.67 L6.93 598.36 L6.54        599.04 L0 595.28 Z"
+   class="st17"
+   id="path666" />
+		</g>
+		<g
+   id="shape192-319"
+   v:mID="192"
+   v:groupContext="shape"
+   transform="translate(407.379,-266.925)">
+			<title
+   id="title669">工作表.192</title>
+			<desc
+   id="desc671">Isw</desc>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="14.1732"
+   cy="589.323"
+   width="28.35"
+   height="11.9055" />
+			<rect
+   x="0"
+   y="583.37"
+   width="28.3465"
+   height="11.9055"
+   class="st19"
+   id="rect673" />
+			<text
+   x="7.84"
+   y="595.17"
+   class="st3"
+   v:langID="2052"
+   id="text677"><v:paragraph
+   v:horizAlign="1" /><v:tabList />I<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan675">sw</tspan></text>
+		</g>
+		<g
+   id="shape193-323"
+   v:mID="193"
+   v:groupContext="shape"
+   transform="translate(323.15,-398.511)">
+			<title
+   id="title680">工作表.193</title>
+			<desc
+   id="desc682">ILk</desc>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="14.1732"
+   cy="589.323"
+   width="28.35"
+   height="11.9055" />
+			<rect
+   x="0"
+   y="583.37"
+   width="28.3465"
+   height="11.9055"
+   class="st19"
+   id="rect684" />
+			<text
+   x="7.84"
+   y="595.17"
+   class="st9"
+   v:langID="2052"
+   id="text688"><v:paragraph
+   v:horizAlign="1" /><v:tabList />I<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan686">Lk</tspan></text>
+		</g>
+		<g
+   id="shape194-327"
+   v:mID="194"
+   v:groupContext="shape"
+   transform="translate(341.574,798.56) rotate(-180)">
+			<title
+   id="title691">现代箭头.194</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="CtrlAngle"
+   v:prompt=""
+   v:val="VT0(0.78539816339745):32" />
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="CtrlAngle"
+   v:prompt=""
+   v:val="VT0(0.5216439715843):32" />
+			</v:userDefs>
+			<path
+   d="M0 595.28 L6.54 591.52 L6.93 592.19 L2.25 594.88 L14.17 594.88 L14.17 595.67 L2.25 595.67 L6.93 598.36 L6.54        599.04 L0 595.28 Z"
+   class="st14"
+   id="path693" />
+		</g>
+		<g
+   id="shape195-329"
+   v:mID="195"
+   v:groupContext="shape"
+   transform="translate(388.776,-301.057)">
+			<title
+   id="title696">工作表.195</title>
+			<desc
+   id="desc698">ILm</desc>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="9.49127"
+   cy="589.323"
+   width="18.99"
+   height="11.9055" />
+			<rect
+   x="0"
+   y="583.37"
+   width="18.9825"
+   height="11.9055"
+   class="st19"
+   id="rect700" />
+			<text
+   x="2.08"
+   y="595.17"
+   class="st9"
+   v:langID="2052"
+   id="text704"><v:paragraph
+   v:horizAlign="1" /><v:tabList />I<tspan
+   dy="-0.279em"
+   class="st4"
+   v:baseFontSize="12"
+   id="tspan702">Lm</tspan></text>
+		</g>
+		<g
+   id="shape196-333"
+   v:mID="196"
+   v:groupContext="shape"
+   transform="translate(-183.835,297.887) rotate(-90)">
+			<title
+   id="title707">现代箭头.196</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="CtrlAngle"
+   v:prompt=""
+   v:val="VT0(0.78539816339745):32" />
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="CtrlAngle"
+   v:prompt=""
+   v:val="VT0(0.5216439715843):32" />
+			</v:userDefs>
+			<path
+   d="M0 595.28 L6.54 591.52 L6.93 592.19 L2.25 594.88 L8.15 594.88 L8.15 595.67 L2.25 595.67 L6.93 598.36 L6.54 599.04        L0 595.28 Z"
+   class="st14"
+   id="path709" />
+		</g>
+		<g
+   id="shape197-335"
+   v:mID="197"
+   v:groupContext="shape"
+   transform="translate(472.221,-385.854)">
+			<title
+   id="title712">工作表.197</title>
+			<desc
+   id="desc714">N:1</desc>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="14.4567"
+   cy="589.323"
+   width="28.92"
+   height="11.9055" />
+			<rect
+   x="0"
+   y="583.37"
+   width="28.9134"
+   height="11.9055"
+   class="st19"
+   id="rect716" />
+			<text
+   x="5.46"
+   y="595.17"
+   class="st9"
+   v:langID="2052"
+   id="text718"><v:paragraph
+   v:horizAlign="1" /><v:tabList />N:1</text>
+		</g>
+		<g
+   id="shape198-338"
+   v:mID="198"
+   v:groupContext="shape"
+   transform="translate(368.504,-274.968)">
+			<title
+   id="title721">工作表.198</title>
+			<desc
+   id="desc723">IC</desc>
+			<v:textBlock
+   v:margins="rect(1,1,1,1)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+			<v:textRect
+   cx="14.1732"
+   cy="589.323"
+   width="28.35"
+   height="11.9055" />
+			<rect
+   x="0"
+   y="583.37"
+   width="28.3465"
+   height="11.9055"
+   class="st19"
+   id="rect725" />
+			<text
+   x="9.57"
+   y="595.17"
+   class="st9"
+   v:langID="2052"
+   id="text729"><v:paragraph
+   v:horizAlign="1" /><v:tabList />I<tspan
+   dy="-0.279em"
+   class="st4"
+   v:langID="1033"
+   v:baseFontSize="12"
+   id="tspan727">C</tspan></text>
+		</g>
+		<g
+   id="shape199-342"
+   v:mID="199"
+   v:groupContext="shape"
+   transform="translate(375.591,-289.944)">
+			<title
+   id="title732">现代箭头.199</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="CtrlAngle"
+   v:prompt=""
+   v:val="VT0(0.78539816339745):32" />
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="CtrlAngle"
+   v:prompt=""
+   v:val="VT0(0.5216439715843):32" />
+			</v:userDefs>
+			<path
+   d="M0 595.28 L6.54 591.52 L6.93 592.19 L2.25 594.88 L18.43 594.88 L18.43 595.67 L2.25 595.67 L6.93 598.36 L6.54        599.04 L0 595.28 Z"
+   class="st14"
+   id="path734" />
+		</g>
+	</g>
+</svg>

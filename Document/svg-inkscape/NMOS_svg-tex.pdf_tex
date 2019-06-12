@@ -1,0 +1,98 @@
+%% Creator: Inkscape inkscape 0.92.4, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'NMOS_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{496.39458728bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.42298219)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{NMOS_svg-tex.pdf}}%
+    \put(0.23137573,0.28359532){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sa\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{NMOS_svg-tex.pdf}}%
+    \put(0.63070664,0.19538736){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}T\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{NMOS_svg-tex.pdf}}%
+    \put(0.7424583,0.37126327){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DR\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{NMOS_svg-tex.pdf}}%
+    \put(0.38646583,0.29074285){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Cds_sa\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{NMOS_svg-tex.pdf}}%
+    \put(0.4298224,0.06959046){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sa\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{NMOS_svg-tex.pdf}}%
+    \put(0.56988415,0.03629042){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Cds_sw\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{NMOS_svg-tex.pdf}}%
+    \put(0.39218707,0.40613072){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Lk\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{NMOS_svg-tex.pdf}}%
+    \put(0.4665311,0.284387){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Lm\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{NMOS_svg-tex.pdf}}%
+    \put(0.31417265,0.19423506){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CC\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{NMOS_svg-tex.pdf}}%
+    \put(-0.00007082,0.16942017){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Vin\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{NMOS_svg-tex.pdf}}%
+    \put(0.39149005,0.32860177){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Vds_sa\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{NMOS_svg-tex.pdf}}%
+    \put(0.9550026,0.2845401){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Vo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{NMOS_svg-tex.pdf}}%
+    \put(0.5995742,0.05506979){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Vds_sw\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{NMOS_svg-tex.pdf}}%
+    \put(0.33663458,0.12938757){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}VC\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{NMOS_svg-tex.pdf}}%
+    \put(0.73389657,0.30575909){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Is\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{NMOS_svg-tex.pdf}}%
+    \put(0.4945309,0.13775388){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Isw\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{NMOS_svg-tex.pdf}}%
+    \put(0.32484962,0.40283696){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ILk\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{NMOS_svg-tex.pdf}}%
+    \put(0.44762676,0.2065136){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ILm\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{NMOS_svg-tex.pdf}}%
+    \put(0.61520488,0.3700869){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}N:1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{NMOS_svg-tex.pdf}}%
+    \put(0.41982231,0.1539567){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}IC\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{NMOS_svg-tex.pdf}}%
+  \end{picture}%
+\endgroup%
