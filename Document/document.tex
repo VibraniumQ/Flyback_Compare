@@ -4,6 +4,9 @@
 \date{2019年6月1日}
 %\usepackage{ctex}
 \usepackage[a4paper,top=2.54cm,bottom=2.54cm,left=3.18cm,right=3.18cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{mathptmx}
 \usepackage{mathtools}
 \usepackage{amsmath,amssymb}
 \usepackage{extarrows}
@@ -43,7 +46,7 @@
 			
 			\bigskip
 			\bigskip
-			{\Huge 2016114987}
+			{\Huge \upshape 2016114987}
 			
 			\bigskip
 			\bigskip
@@ -84,7 +87,7 @@
 	\begin{figure}[h]
 		\centering
 		\includegraphics[scale=0.2]{image/scope.png}
-		\caption{开关管漏源极电压}
+		\caption{Simulink仿真结果}
 	\end{figure}
 
 	不难看出，在开关管关断瞬间，漏源极电压存在电压过冲，大约超过稳定后电压值的20\%，如果频率更高，过电压更加严重，可能会造成开关管被击穿。
@@ -103,7 +106,7 @@
 	
 	\begin{figure}[h]
 		\centering
-		\includegraphics[scale=0.48]{image/NMOS_Clamp.pdf}
+		\includegraphics[scale=0.75]{image/NMOS_Clamp.pdf}
 		\caption{NMOS箝位}
 	\end{figure}
 
@@ -235,7 +238,7 @@
 		\caption{阶段8 [$T_7 \sim T_8$]}
 	\end{figure}
 	
-	第八阶段[$T_7 \sim T_8$]：$T_7$时刻$S_w$开通，实现零电压开通。漏感$L_k$两端电压为$V{in}-NV_O$，漏感反向电流继续线性下降，直至为零，然后线性上升。在$T_8$时刻漏感电流等于激磁电流，即$i_{Lk}(t_8) = i_{Lm}(t_8)$，此后漏感电流与激磁电流保持一致线性上升。
+	第八阶段[$T_7 \sim T_8$]：$T_7$时刻$S_w$开通，实现零电压开通。漏感$L_k$两端电压为$V_{in}-NV_O$，漏感反向电流继续线性下降，直至为零，然后线性上升。在$T_8$时刻漏感电流等于激磁电流，即$i_{Lk}(t_8) = i_{Lm}(t_8)$，此后漏感电流与激磁电流保持一致线性上升。
 	
 	\newpage
 	\subsubsection{非互补有源箝位反激变换器Simulink仿真模型}
